@@ -1,5 +1,25 @@
 [
     {
+        "package": "graphlayouts",
+        "url": "https://github.com/schochastics/graphlayouts"
+    },
+    {
+        "package": "netrankr",
+        "url": "https://github.com/schochastics/netrankr"
+    },
+    {
+        "package": "snahelper",
+        "url": "https://github.com/schochastics/snahelper"
+    },
+    {
+        "package": "signnet",
+        "url": "https://github.com/schochastics/signnet"
+    },
+    {
+	"package": "edgebundle",
+	"url": "https://github.com/schochastics/edgebundle"
+    },
+    {
         "package": "networkdata",
         "url": "https://github.com/schochastics/networkdata"
     },
@@ -14,9 +34,5 @@
     {
         "package": "netUtils",
         "url": "https://github.com/schochastics/netUtils"
-    },
-    {
-	"package": "edgebundle",
-	"url": "https://github.com/schochastics/edgebundle"
     }
 ]
