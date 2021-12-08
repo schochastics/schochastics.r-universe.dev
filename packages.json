@@ -14,5 +14,9 @@
     {
         "package": "netUtils",
         "url": "https://github.com/schochastics/netUtils"
+    },
+    {
+	"package": "edgebundle",
+	"url": "https://github.com/schochastics/edgebundle"
     }
 ]
