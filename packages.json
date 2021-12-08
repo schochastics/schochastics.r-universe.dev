@@ -1,0 +1,18 @@
+[
+    {
+        "package": "networkdata",
+        "url": "https://github.com/schochastics/networkdata"
+    },
+    {
+        "package": "roughnet",
+        "url": "https://github.com/schochastics/roughnet"
+    },
+    {
+        "package": "roughsf",
+        "url": "https://github.com/schochastics/roughsf"
+    },
+    {
+        "package": "netUtils",
+        "url": "https://github.com/schochastics/netUtils"
+    }
+]
