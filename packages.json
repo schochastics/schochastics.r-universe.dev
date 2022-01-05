@@ -34,5 +34,9 @@
     {
         "package": "netUtils",
         "url": "https://github.com/schochastics/netUtils"
+    },
+    {
+        "package": "rokemon",
+        "url": "https://github.com/schochastics/rokemon"
     }
 ]
