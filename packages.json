@@ -38,5 +38,10 @@
     {
         "package": "Rokemon",
         "url": "https://github.com/schochastics/rokemon"
+    },
+    {
+        "package": "levelnet",
+        "url": "https://github.com/schochastics/levelnet"
     }
+
 ]
