@@ -50,6 +50,10 @@
     {
 	"package": "PSAWR",
         "url": "https://github.com/schochastics/PSAWR"	
+    },
+    {
+        "package": "RTumblr",
+        "url": "https://github.com/schochastics/RTumblr"
     }
 
 ]
