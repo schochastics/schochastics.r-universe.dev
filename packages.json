@@ -54,6 +54,9 @@
     {
         "package": "Rtumblr",
         "url": "https://github.com/schochastics/Rtumblr"
+    },
+    {
+	"package": "webtrackR",
+	"url": "https://github.com/schochastics/webtrackR"
     }
-
 ]
