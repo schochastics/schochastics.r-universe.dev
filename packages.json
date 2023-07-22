@@ -62,5 +62,10 @@
     {
     	"package": "webbotparseR",
 	"url": "https://github.com/schochastics/webbotparseR"
+    },
+    ,
+    {
+        "package": "stabilityAI",
+        "url": "https://github.com/schochastics/stabilityAI"
     }
 ]
