@@ -66,9 +66,5 @@
     {
         "package": "domainator",
         "url": "https://github.com/schochastics/domainator"
-    },
-    {
-        "package": "adaR",
-        "url": "https://github.com/schochastics/adaR"
     }
 ]
