@@ -66,5 +66,9 @@
     {
         "package": "domainator",
         "url": "https://github.com/schochastics/domainator"
+    },
+    {
+	"package": "RFPNG",
+	"url": "https://github.com/schochastics/RFPNG"
     }
 ]
