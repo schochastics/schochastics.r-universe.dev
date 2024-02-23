@@ -70,5 +70,9 @@
     {
 	"package": "RFPNG",
 	"url": "https://github.com/schochastics/RFPNG"
+    },
+    {
+	"package": "dialrs",
+	"url": "https://github.com/schochastics/dialrs"
     }
 ]
