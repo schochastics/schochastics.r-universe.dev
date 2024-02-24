@@ -74,5 +74,9 @@
     {
 	"package": "dialrs",
 	"url": "https://github.com/schochastics/dialrs"
+    },
+    {
+	"package": "chronos",
+	"url": "https://github.com/schochastics/chronos"
     }
 ]
