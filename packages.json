@@ -78,5 +78,9 @@
     {
 	"package": "timeless",
 	"url": "https://github.com/schochastics/timeless"
+    },
+    {
+	"package": "shortuuid",
+	"url": "https://github.com/schochastics/shortuuid"
     }
 ]
