@@ -82,5 +82,9 @@
     {
 	"package": "shortuuid",
 	"url": "https://github.com/schochastics/shortuuid"
+    },
+    {
+	"package": "oaqc",
+	"url": "https://github.com/schochastics/oaqc"
     }
 ]
