@@ -94,5 +94,9 @@
     {
 	"package": "startifyR",
 	"url": "https://github.com/schochastics/startifyR"
+    },
+    {
+	"package": "paperwizard",
+	"url": "https://github.com/schochastics/paperwizard"
     }
 ]
