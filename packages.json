@@ -98,5 +98,9 @@
     {
 	"package": "paperwizard",
 	"url": "https://github.com/schochastics/paperwizard"
+    },
+    {
+	"package": "urlparser",
+	"url": "https://github.com/schochastics/urlparser"
     }
 ]
