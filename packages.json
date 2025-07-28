@@ -102,5 +102,9 @@
     {
 	"package": "urlparser",
 	"url": "https://github.com/schochastics/urlparser"
+    },
+    {
+	"package": "dexid",
+	"url": "https://github.com/schochastics/dexid"
     }
 ]
