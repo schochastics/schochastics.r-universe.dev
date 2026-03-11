@@ -106,5 +106,9 @@
     {
 	"package": "dexid",
 	"url": "https://github.com/schochastics/dexid"
+    },
+    {
+	"package": "ggrough2",
+	"url": "https://github.com/schochastics/ggrough2"
     }
 ]
