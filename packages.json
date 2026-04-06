@@ -110,5 +110,9 @@
     {
 	"package": "ggrough2",
 	"url": "https://github.com/schochastics/ggrough2"
+    },
+	{
+	"package": "rkeepass",
+	"url": "https://github.com/schochastics/rkeepass"
     }
 ]
