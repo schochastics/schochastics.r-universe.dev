@@ -114,5 +114,9 @@
 	{
 	"package": "rkeepass",
 	"url": "https://github.com/schochastics/rkeepass"
+    },
+	{
+	"package": "vhsR",
+	"url": "https://github.com/schochastics/vhsR"
     }
 ]
