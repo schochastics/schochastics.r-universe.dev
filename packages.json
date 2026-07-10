@@ -118,5 +118,21 @@
 	{
 	"package": "vhsR",
 	"url": "https://github.com/schochastics/vhsR"
+    },
+	{
+	"package": "vellum",
+	"url": "https://github.com/r-vellum/vellum"
+    },
+	{
+	"package": "vellumplot",
+	"url": "https://github.com/r-vellum/vellumplot"
+    },
+	{
+	"package": "vellumwidget",
+	"url": "https://github.com/r-vellum/vellumwidget"
+    },
+	{
+	"package": "vellumverse",
+	"url": "https://github.com/r-vellum/vellumverse"
     }
 ]
